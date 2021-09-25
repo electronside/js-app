@@ -1,2 +1,2 @@
 # js-app
-JavaScript clone app like a Microsoft World
+Microsoft Word JS App
